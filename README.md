@@ -20,7 +20,7 @@ Có, bạn có thể sử dụng mitmproxy với thiết bị webOS để theo d
 Lưu ý:
  * Việc chặn lưu lượng truy cập HTTPS có thể gây ra cảnh báo bảo mật trên một số trang web.
  * Hãy cẩn thận khi chặn lưu lượng truy cập, vì nó có thể ảnh hưởng đến chức năng của một số ứng dụng.
- * Kiến thức an ninh mạng để phòng chống, không làm điều xấu. Luật pháp liên quan.
+ * Kiến thức an ninh mạng để phòng chống, không làm điều xấu, Luật pháp liên quan.
 Tài nguyên bổ sung:
  * Trang web chính thức của mitmproxy: mitmproxy.org
 Hy vọng thông tin này hữu ích!
